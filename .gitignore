@@ -1,0 +1,4 @@
+build/main.o
+build/carro.o
+bin/ExCarro.exe
+bin/ExCarro
